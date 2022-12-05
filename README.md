@@ -1,1 +1,4 @@
 # Mi-Portafolio
+npm run dev 
+
+DEPSUES COPIO DE QUE SE TRATA EL PROYECTO
